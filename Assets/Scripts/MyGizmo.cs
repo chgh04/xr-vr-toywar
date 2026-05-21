@@ -1,0 +1,13 @@
+using UnityEngine;
+
+public class MyGizmo : MonoBehaviour
+{
+    public Color color = Color.green;
+    public float radius = 0.02f;
+
+    private void OnDrawGizmos()
+    {
+        Gizmos.color = color;
+        Gizmos.DrawSphere(transform.position, radius);
+    }
+}
