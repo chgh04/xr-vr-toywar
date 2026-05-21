@@ -19,7 +19,7 @@
 ---
 
 ## 프로젝트 개요 | Project Overview
-- **Platform:** Meta Quest 2 / PC VR (Oculus Rift)
+- **Platform:** Meta Quest 2 / PC VR
 - **Engine:** Unity 6
 - **Input:** OpenXR / Unity Input System (Action-based)
 - **Graphics:** URP
